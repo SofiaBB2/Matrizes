@@ -1,0 +1,1 @@
+Este foi um trabalho para a disciplina de Matemática III do Ensino Médio Integrado ao Técnico em Informática sobre criptografia de mensagens utilizando matrizes. Desenvolvido pelas alunas Sofia Burdelake Bespalhuk e Julya Carvalho de Souza.
